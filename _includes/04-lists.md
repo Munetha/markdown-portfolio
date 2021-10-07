@@ -1,3 +1,3 @@
-Github
-Linked In
-Discord
+* Github
+* Linked In
+* Discord
